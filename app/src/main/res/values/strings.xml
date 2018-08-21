@@ -3,5 +3,5 @@
     <string name="username">Username: </string>
     <string name="passwordfieldlabel">Password:</string>
     <string name="loginbuttonlabel">Login</string>
-    <string name="resetbuttonlabel">Login</string>
+    <string name="resetbuttonlabel">Reset</string>
 </resources>
